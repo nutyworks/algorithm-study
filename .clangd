@@ -1,0 +1,10 @@
+CompileFlags:
+  Add:
+    - "-Iincludes"
+    - "-o a"
+    - "-O2"
+    - "-Wall"
+    - "-static"
+    - "-std=gnu++17"
+    - "-DONLINE_JUDGE"
+    - "-DBOJ"
